@@ -1,4 +1,4 @@
-# BCG-Task-3-Feature_Engineering
+
 ## Summary of BCG Data Science and Analytics Virtual Internship - Forage
 
 This internship simulates a data science project at BCG focusing on customer churn in the energy sector.
